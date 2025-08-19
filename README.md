@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou Thamyres Victoria
 ## 🌟 Estatísticas GitHub
-<img src="https://github.com/user-attachments/assets/9222f331-a52a-4a06-821c-2b4092b3b44f" alt="Nerd Emoji" width="150"/>
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&count_private=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
 
@@ -20,6 +19,5 @@
 - **[GreenBank](https://github.com/seuusuario/GreenBank)** - Aplicativo bancário sustentável em Flutter  
 - **[Monitoramento Ambiental](https://github.com/seuusuario/ProjetoMonitoramento)** - Sistema de monitoramento de desmatamento via satélite  
 
-
-
+<img src="https://github.com/user-attachments/assets/9222f331-a52a-4a06-821c-2b4092b3b44f" alt="Nerd Emoji" width="150"/>
 
