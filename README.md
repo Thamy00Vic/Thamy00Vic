@@ -3,8 +3,7 @@
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&count_private=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonada por **tecnologia, IA e monitoramento ambiental**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**    
 🌱 Atualmente focada em **projetos de monitoramento de desmatamento via satélite**  
 
 ## 🔧 Habilidades
