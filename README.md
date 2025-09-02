@@ -48,8 +48,14 @@ Classificador **Naive Bayes** aplicado a dados de vinhos. 🍷
 ### 🔬 [LABSensing - Case Study](https://github.com/LABSensing/LabSesing-case-study)  
 Participação no **LABSensing** (UNAMA) em projetos de **IA e Sensoriamento Remoto**.  
 💡 Monito
-<!-- Imagem Nerd Emoji pequena -->
+<!-- ... todo o conteúdo do README anterior ... -->
+
+---
+
+⭐ Se você gostou dos projetos, deixe uma estrela nos repositórios!
+
+<!-- Nerd Emoji pequeno no final -->
 <p align="center">
-  <img src="URL_DA_IMAGEM" alt="Nerd Emoji" width="100"/>
+  <img src="https://raw.githubusercontent.com/Thamy00Vic/REPO/main/assets/nerd-emoji.gif" alt="Nerd Emoji" width="100"/>
 </p>
 
