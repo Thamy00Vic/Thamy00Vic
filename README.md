@@ -26,29 +26,25 @@
 
 ## 🌟 Projetos em Destaque
 
-### 🤖 [Vision-Arduino-Control](https://github.com/Thamy00Vic) *(Repositório sendo estruturado)*
-Controle de hardware por gestos em tempo real utilizando **Python, OpenCV e MediaPipe** integrado ao **Arduino**.
-💡 **Destaque:** Desenvolvido de ponta a ponta de forma autônoma em apenas dois dias, mapeando as articulações da mão via computação visual para acionamento de LEDs por comunicação serial.
+### 🤖 [Vision-Arduino-Control](https://github.com/Thamy00Vic/Vision-Arduino-Control)
+Integração ponta a ponta entre visão computacional e IoT para controle de hardware por gestos em tempo real utilizando **Python, OpenCV e MediaPipe** acoplado ao **Arduino** (C++).
+💡 **Destaque:** Sistema de baixa latência desenvolvido de forma autônoma em apenas dois dias para portfólio. Mapeia e extrai as coordenadas estruturais (landmarks) das articulações das mãos para chaveamento elétrico via protocolo de comunicação serial.
 
 ### 🌍 [LABSensing - Case Study](https://github.com/LABSensing/LabSesing-case-study) *(Pesquisa & Organização Acadêmica)*
 Contribuição no **LABSensing (Laboratório de Sensoriamento Remoto da UNAMA)** em pesquisas de Inteligência Artificial aplicada ao monitoramento ambiental e detecção de desmatamento no Estado do Pará.
 💡 **Destaque:** Foco em análise de dados históricos de sensores remotos e frequências de satélite (bandas B1, B2 e B3). Com base nos artigos e dados dessa rica experiência institucional, estou desenvolvendo uma reconstrução solo e independente para implementar arquiteturas modernas de Deep Learning e pipelines otimizados de dados.
 
-### 🏡 [laravel-projeto-albergue-verde](https://github.com/Thamy00Vic/laravel-projeto-albergue-verde) *(Desenvolvido pela Green Code)*
-Aplicação robusta desenvolvida em **Laravel (PHP)** que tem como objetivo facilitar a busca de albergues e hotéis em Belém para a **COP30**, oferecendo uma experiência intuitiva e moderna.
-💡 **Destaque:** Criado através da nossa iniciativa **Green Code**. Fui responsável pela implementação da lógica de classificação, filtragem inteligente e recomendação de estadias baseadas nas preferências do usuário.
+### 🏡 [laravel-projeto-albergue-verde](https://github.com/Thamy00Vic/laravel-projeto-albergue-verde) *(Green Code)*
+Aplicação de grande porte em **Laravel (PHP)** projetada para centralizar a busca por hospedagens e albergues sustentáveis em Belém com foco no fluxo turístico da **COP30**.
+💡 **Destaque:** Co-fundadora do projeto pela iniciativa **Green Code**, onde liderei a arquitetura técnica, modelagem do banco de dados e a implementação do motor inteligente de classificação e filtragem por preferências de usuário.
 
-### 💳 [GreenBank](https://github.com/Thamy00Vic/GreenBank) & [Greenbank-telas](https://github.com/Thamy00Vic/Greenbank-telas) *(Desenvolvido pela Green Code)*
-Projeto de criação de um banco digital digital sustentável construído com **Flutter (Dart)**.
-💡 **Destaque:** Desenvolvido em parceria pela **Green Code**, focado em arquitetura limpa, UI/UX financeiro inovador e lógica de consumo de APIs para cotações em tempo real.
-
-### 📊 [cop30-monitoramento-ambiental](https://github.com/Thamy00Vic/cop30-monitoramento-ambiental) *(MVP)*
-Plataforma simples para monitoramento ambiental focada no contexto da COP30 em Belém do Pará.
-💡 **Destaque:** Aplicação prática em **JavaScript** mapeando dados e métricas iniciais para servir de base para estudos de sensoriamento e impacto climático.
+### 💳 [GreenBank](https://github.com/Thamy00Vic/GreenBank) & [Greenbank-telas](https://github.com/Thamy00Vic/Greenbank-telas) *(Green Code)*
+Ecosistema mobile de um banco digital focado em finanças sustentáveis construído com **Flutter (Dart)**.
+💡 **Destaque:** Atuação na arquitetura técnica do app, com foco em Clean Architecture, consumo de APIs financeiras para cotações em tempo real e construção de uma interface (UI/UX) fluida e de alta fidelidade.
 
 ### 📊 [projeto-naive-bayes](https://github.com/Thamy00Vic/projeto-naive-bayes) *(Análise de Dados)*
-Classificador supervisionado baseado no teorema de **Naive Bayes** aplicado à análise físico-química de vinhos.
-💡 **Destaque:** Projeto prático em **Jupyter Notebook** focado em engenharia de atributos, cálculo de probabilidade condicional e avaliação de métricas de modelos de Machine Learning.
+Classificador estatístico supervisionado baseado no teorema de **Naive Bayes** aplicado à análise preditiva físico-química de vinhos.
+💡 **Destaque:** Projeto prático em **Jupyter Notebook** focado em engenharia de atributos (feature engineering), cálculo de probabilidade condicional e avaliação rigorosa de métricas de modelos (Matriz de Confusão, F1-Score e Acurácia).
 
 ---
 
