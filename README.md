@@ -18,33 +18,37 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-### 🤖 [Vision-Arduino-Control](https://github.com/Thamy00Vic) *(Suba com esse nome ou o que preferir!)*
+### 🤖 [Vision-Arduino-Control](https://github.com/Thamy00Vic) *(Repositório sendo estruturado)*
 Controle de hardware por gestos em tempo real utilizando **Python, OpenCV e MediaPipe** integrado ao **Arduino**.
 💡 **Destaque:** Desenvolvido de ponta a ponta de forma autônoma em apenas dois dias, mapeando as articulações da mão via computação visual para acionamento de LEDs por comunicação serial.
 
-### 🌍 [GreenNorte (LABSensing Case)](https://github.com/Thamy00Vic/ProjetoMonitoramento)  
-Análise preditiva e monitoramento de desmatamento no Estado do Pará utilizando imagens de satélite.  
-💡 **Destaque:** Baseado em dados históricos de sensores remotos (bandas de frequência espectral). Atualmente sendo reconstruído de forma 100% independente para implementar arquiteturas modernas de Deep Learning e otimização de pipelines de dados.
+### 🌍 [LABSensing - Case Study](https://github.com/LABSensing/LabSesing-case-study) *(Pesquisa & Organização Acadêmica)*
+Contribuição no **LABSensing (Laboratório de Sensoriamento Remoto da UNAMA)** em pesquisas de Inteligência Artificial aplicada ao monitoramento ambiental e detecção de desmatamento no Estado do Pará.
+💡 **Destaque:** Foco em análise de dados históricos de sensores remotos e frequências de satélite (bandas B1, B2 e B3). Com base nos artigos e dados dessa rica experiência institucional, estou desenvolvendo uma reconstrução solo e independente para implementar arquiteturas modernas de Deep Learning e pipelines otimizados de dados.
 
-### 🏡 [GreenHostel](https://github.com/Thamy00Vic/HostelManager)  
-Sistema completo de gestão de hotelaria desenvolvido sob a ótica do ecossistema de turismo da **COP30** em Belém/PA.  
-💡 **Destaque:** Implementação de lógica para classificação, filtragem inteligente e recomendação de estadias baseadas nas preferências do usuário.
+### 🏡 [laravel-projeto-albergue-verde](https://github.com/Thamy00Vic/laravel-projeto-albergue-verde) *(Desenvolvido pela Green Code)*
+Aplicação robusta desenvolvida em **Laravel (PHP)** que tem como objetivo facilitar a busca de albergues e hotéis em Belém para a **COP30**, oferecendo uma experiência intuitiva e moderna.
+💡 **Destaque:** Criado através da nossa iniciativa **Green Code**. Fui responsável pela implementação da lógica de classificação, filtragem inteligente e recomendação de estadias baseadas nas preferências do usuário.
 
-### 💳 [GreenBank](https://github.com/Thamy00Vic/projeto-greenbank)  
-Aplicativo fintech sustentável construído com **Flutter (Dart)**.  
-💡 **Destaque:** Simulação de operações de Pix, investimentos e consumo de APIs para cotações em tempo real com forte foco em arquitetura limpa e UI/UX financeiro.
+### 💳 [GreenBank](https://github.com/Thamy00Vic/GreenBank) & [Greenbank-telas](https://github.com/Thamy00Vic/Greenbank-telas) *(Desenvolvido pela Green Code)*
+Projeto de criação de um banco digital digital sustentável construído com **Flutter (Dart)**.
+💡 **Destaque:** Desenvolvido em parceria pela **Green Code**, focado em arquitetura limpa, UI/UX financeiro inovador e lógica de consumo de APIs para cotações em tempo real.
 
-### 📊 [Projeto Naive Bayes](https://github.com/Thamy00Vic/projeto-naive-bayes)  
-Classificador supervisionado aplicado à análise físico-química de vinhos.  
-💡 **Destaque:** Projeto prático focado em engenharia de atributos, cálculo de probabilidade condicional e avaliação de métricas de modelos de Machine Learning.
+### 📊 [cop30-monitoramento-ambiental](https://github.com/Thamy00Vic/cop30-monitoramento-ambiental) *(MVP)*
+Plataforma simples para monitoramento ambiental focada no contexto da COP30 em Belém do Pará.
+💡 **Destaque:** Aplicação prática em **JavaScript** mapeando dados e métricas iniciais para servir de base para estudos de sensoriamento e impacto climático.
+
+### 📊 [projeto-naive-bayes](https://github.com/Thamy00Vic/projeto-naive-bayes) *(Análise de Dados)*
+Classificador supervisionado baseado no teorema de **Naive Bayes** aplicado à análise físico-química de vinhos.
+💡 **Destaque:** Projeto prático em **Jupyter Notebook** focado em engenharia de atributos, cálculo de probabilidade condicional e avaliação de métricas de modelos de Machine Learning.
 
 ---
 
