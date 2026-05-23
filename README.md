@@ -47,10 +47,20 @@ Classificador estatístico supervisionado baseado no teorema de **Naive Bayes** 
 💡 **Destaque:** Projeto prático em **Jupyter Notebook** focado em engenharia de atributos (feature engineering), cálculo de probabilidade condicional e avaliação rigorosa de métricas de modelos (Matriz de Confusão, F1-Score e Acurácia).
 
 ---
-## 🌟 Estatísticas GitHub
-![Status do GitHub](https://github-readme-stats.vercel.io/api?username=Thamy00Vic&show_icons=true&theme=radical&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.io/api/top-langs/?username=Thamy00Vic&layout=compact&theme=radical)
 ---
+
+## 📬 Vamos nos conectar?
+
+Seja para conversar sobre Inteligência Artificial, desenvolvimento de software, oportunidades de colaboração ou projetos de impacto (especialmente voltados para sustentabilidade e COP30), sinta-se à vontade para entrar em contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/thamyres-victoria-neves-de-sousa-a1bb9723b)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thamyres25.victoria@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif" width="15%" />
+</p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif" width="15%" />
