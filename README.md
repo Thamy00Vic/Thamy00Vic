@@ -47,11 +47,9 @@ Classificador estatístico supervisionado baseado no teorema de **Naive Bayes** 
 💡 **Destaque:** Projeto prático em **Jupyter Notebook** focado em engenharia de atributos (feature engineering), cálculo de probabilidade condicional e avaliação rigorosa de métricas de modelos (Matriz de Confusão, F1-Score e Acurácia).
 
 ---
-
 ## 🌟 Estatísticas GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Thamy00Vic&show_icons=true&theme=radical&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamy00Vic&layout=compact&theme=radical)
-
+![Status do GitHub](https://github-readme-stats.vercel.io/api?username=Thamy00Vic&show_icons=true&theme=radical&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.io/api/top-langs/?username=Thamy00Vic&layout=compact&theme=radical)
 ---
 
 <p align="center">
